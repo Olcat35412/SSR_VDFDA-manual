@@ -1,1 +1,1 @@
-# SSR_VDFDA-manual
+# SSR_VibraProfiler_manual
